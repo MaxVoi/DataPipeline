@@ -12,6 +12,15 @@ Includes four stages:
     algorithm to figure out the right sag value)
 - Quality Asessement
 
-# Technologies
+## Technologies
 
-The core part of the application is a .NET-application (WPF) written in VB.NET. The whole communication with CATIA is done through the CATIA Automation-API. Therefore another part of the application is written as macros in VBA.
+The core part of the application is a .NET-application (WPF) written in VB.NET. 
+The whole communication with CATIA is done through the CATIA Automation-API. Therefore another part of the application is written as macros in VBA.
+
+Data is stored in an Access database to enable easy manipulation of certain datasets from a wide range of people.
+
+## User Interface
+
+
+## Algorithms
+
