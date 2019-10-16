@@ -21,6 +21,7 @@ Data is stored in an Access database to enable easy manipulation of certain data
 
 ## User Interface
 
+![alt text](https://raw.githubusercontent.com/maxvoi/DataPipeline/branch/path/to/img.png)
 
 ## What I learned
 
