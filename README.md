@@ -10,7 +10,7 @@ Includes four stages:
 - Tesselation
   (Algorithm categorizes joined surfaces in order to create an optimally tesselated model, 
     algorithm to figure out the right sag value)
-- Quality Asessement
+- Quality asessement
 
 ## Technologies
 
