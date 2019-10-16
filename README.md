@@ -22,5 +22,23 @@ Data is stored in an Access database to enable easy manipulation of certain data
 ## User Interface
 
 
-## Algorithms
+## What I learned
 
+Languages
+Deepened my understanding of the .NET (C# and VB.NET)-world
+Experimented with C++ (within the Architecture of CATIA)
+
+Design Patterns
+WPF is based on the MVVM pattern, which created a nice opporturnity to deeply understand the MVVM pattern.
+
+Datastrucutures & Algorithms
+Writing own algorithms (Divide & Conquer, ...) and understanding a lot of tesselation and simplification algorithms I learned a lot about algorithm design.
+
+Writing an application, which at it's core is a tool to convert one complex data structure into another similar data structure (with key differences), I learned a lot about graphs and trees. 
+
+Database
+Avoiding external dependencies as much as possible I wrote my own little library for accessing the database with SQL-queries.
+
+Software
+Gained a lot of insights into Unity
+CATIA (APIs, general structure and architecture)
