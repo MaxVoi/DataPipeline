@@ -25,7 +25,7 @@ Data is stored in an Access database to enable easy manipulation of certain data
 ## What I learned
 
 #### Languages
-Deepened my understanding of the .NET (C# and VB.NET)-world
+Deepened my understanding of the .NET (C# and VB.NET)-world\
 Experimented with C++ (within the Architecture of CATIA)
 
 #### Design Patterns
@@ -40,5 +40,5 @@ Writing an application, which at it's core is a tool to convert one complex data
 Avoiding external dependencies as much as possible I wrote my own little library for accessing the database with SQL-queries.
 
 #### Software
-Gained a lot of insights into Unity
+Gained a lot of insights into Unity\
 CATIA (APIs, general structure and architecture)
