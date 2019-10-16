@@ -24,11 +24,11 @@ Data is stored in an Access database to enable easy manipulation of certain data
 
 ## What I learned
 
-Languages. 
+Languages\
 Deepened my understanding of the .NET (C# and VB.NET)-world
 Experimented with C++ (within the Architecture of CATIA)
 
-Design Patterns  
+Design Patterns\
 WPF is based on the MVVM pattern, which created a nice opporturnity to deeply understand the MVVM pattern.
 
 Datastrucutures & Algorithms. 
