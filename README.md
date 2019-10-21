@@ -1,5 +1,5 @@
 # DataPipeline
-CAS data preparation tool to automatically optimize CAS data from CATIA for visualization in systems like Unity. Project was done as part of my diploma thesis with BMW.
+CAS data preparation tool to automatically optimize CAS data from CATIA for visualization in systems like Unity. The project was done as part of my diploma thesis with BMW.
 
 Includes four stages: 
 - Data preparation
@@ -8,9 +8,9 @@ Includes four stages:
 - Structure management
   (Changing the flat structure into PDM-friendly structure, adding transformations, etc.)
 - Tesselation
-  (Algorithm categorizes joined surfaces in order to create an optimally tesselated model, 
+  (Algorithm categorizes joined surfaces to create an optimally tesselated model, 
     algorithm to figure out the right sag value)
-- Quality asessement
+- Quality assessment
 
 [Graphic]
 
@@ -30,15 +30,15 @@ Deepened my understanding of the .NET (C# and VB.NET)-world\
 Experimented with C++ (within the Architecture of CATIA)
 
 #### Design Patterns
-WPF is based on the MVVM pattern, which created a nice opporturnity to deeply understand the MVVM pattern.
+WPF is based on the MVVM pattern, which created a nice opportunity to deeply understand the MVVM pattern.
 
 #### Datastrucutures & Algorithms
 Writing own algorithms (Divide & Conquer, ...) and understanding a lot of tesselation and simplification algorithms I learned a lot about algorithm design.
 
-Writing an application, which at it's core is a tool to convert one complex data structure into another similar data structure (with key differences), I learned a lot about graphs and trees. 
+Writing an application, which at its core is a tool to convert one complex data structure into another similar data structure (with key differences), I learned a lot about graphs and trees. 
 
 #### Database
-Avoiding external dependencies as much as possible I wrote my own little library for accessing the database with SQL-queries.
+Avoiding external dependencies as much as possible I wrote a little library for accessing the database with SQL-queries.
 
 #### Software
 Gained a lot of insights into Unity\
