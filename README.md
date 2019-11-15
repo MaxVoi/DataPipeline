@@ -12,7 +12,7 @@ Includes four stages:
     algorithm to figure out the right sag value)
 - Quality assessment
 
-![alt text](https://raw.githubusercontent.com/maxvoi/DataPipeline/master/Img/CASDataPipeline.jpg)
+![alt text](https://raw.githubusercontent.com/maxvoi/DataPipeline/master/Img/Structure CASDataPipeline.png)
 
 The core part of the application is a .NET-application (WPF) written in VB.NET. 
 The whole communication with CATIA is done through the CATIA Automation-API. Therefore another part of the application is written as macros in VBA.
